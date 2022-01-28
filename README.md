@@ -1,4 +1,4 @@
-# learn-typescript-1
+# practice-typescript-1
 
 ## Project setup
 ```
